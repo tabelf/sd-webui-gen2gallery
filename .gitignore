@@ -1,0 +1,15 @@
+env/*
+*.log.*
+*.pyc
+*.swp
+*.log
+*.un~
+*.DS_Store
+.idea
+.vscode/
+venv/
+.venv/
+
+# coverage dot file and report
+.coverage*
+htmlcov/*
